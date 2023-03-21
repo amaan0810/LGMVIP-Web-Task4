@@ -11,7 +11,10 @@
     padding: 15px 0px;
 }
 .cal{
-    margin: 50px 505px 50px 505px;
+    margin: 50px 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 tbody{
@@ -55,3 +58,4 @@ input:active[type="button"]{
 .clr:active{
     background-color: red;
 }
+
